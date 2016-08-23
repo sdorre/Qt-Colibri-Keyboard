@@ -1,4 +1,4 @@
-# Qt-Calibri
+# Qt-Colibri-Keyboard
 
 An updated version of Colibri, a QtQuick library from Nokia for Qt 5 and newer
 
